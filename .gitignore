@@ -1,0 +1,34 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Runtime Logs, Cache & State
+*.log
+/tmp/
+instagram_interactions.db
+enterprise_processed_leads.dat
+facebook_history_*.json
+twitter_dm_history_*.json
+processed_comments.json
+replied_users.txt
+*.png
+
+# Backups & Archives
+*.tar.gz
+*.zip
+*.bak
+
+# IDE & OS metadata
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

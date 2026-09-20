@@ -1,0 +1,11 @@
+{
+  "adspower_api_url": "http://127.0.0.1:50325",
+  "api_key": "YOUR_ADSPOWER_LOCAL_API_KEY",
+  "default_profile_id": "YOUR_DEFAULT_PROFILE_ID",
+  "post_url": "https://www.facebook.com/your-post-or-insights-url",
+  "page_name": "YourPageName",
+  "public_reply_template": "Hello {name}! Thanks for reaching out. Please check your inbox 📩",
+  "private_dm_template": "Hi {name}, thank you for your comment! How can we assist you today?",
+  "check_interval_seconds": 45,
+  "port": 5000
+}

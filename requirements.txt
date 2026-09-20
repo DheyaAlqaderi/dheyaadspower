@@ -1,0 +1,15 @@
+# Core Web Framework
+Flask>=3.0.0
+Werkzeug>=3.0.0
+Jinja2>=3.1.0
+
+# HTTP & API Requests
+requests>=2.31.0
+urllib3>=2.0.0
+charset-normalizer>=3.3.0
+certifi>=2024.0.0
+
+# Browser Automation & Selenium
+selenium>=4.20.0
+websocket-client>=1.8.0
+PySocks>=1.7.1

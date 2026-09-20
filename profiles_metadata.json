@@ -1,0 +1,620 @@
+{
+  "k1h4ceib": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h4cekg": {
+    "name": "بروفايل AdsPower 9",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "X22DhHkA6lkauzzb",
+    "proxy_password": "eTOk1imaH9hzCgLi",
+    "instagram_username": "",
+    "facebook_username": "",
+    "twitter_username": "",
+    "platforms": {}
+  },
+  "k1h4cem0": {
+    "name": "بروفايل AdsPower 8",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "X22DhHkA6lkauzzb",
+    "proxy_password": "eTOk1imaH9hzCgLi",
+    "instagram_username": "",
+    "facebook_username": "",
+    "twitter_username": "",
+    "platforms": {}
+  },
+  "k1h4ceqt": {
+    "name": "بروفايل AdsPower 6",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "X22DhHkA6lkauzzb",
+    "proxy_password": "eTOk1imaH9hzCgLi",
+    "instagram_username": "",
+    "facebook_username": "",
+    "twitter_username": "",
+    "platforms": {}
+  },
+  "k1h4cesc": {
+    "name": "Default Profile",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "X22DhHkA6lkauzzb",
+    "proxy_password": "eTOk1imaH9hzCgLi",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/testpost123",
+        "public_reply_template": "أهلاً بك {name}! تم التواصل معك"
+      },
+      "twitter": {
+        "cooldown_hours": 12,
+        "dm_template": "مرحباً بك {name}، يسعدنا تواصلك!",
+        "page_name": "MyTwitterBot",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}، يسعدنا تواصلك!"
+      }
+    }
+  },
+  "k1h4ca56": {
+    "name": "Default Profile",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "serial_number": "1"
+  },
+  "k1h55ay8": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h55jjy": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h56cqo": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h56psi": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h57dek": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h57eh3": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1h57f5b": {
+    "name": "ملف AdsPower (k1gy6v0h) (مستورد) (مستورد)",
+    "group_name": "الافتراضية",
+    "domain_name": "",
+    "proxy_soft": "other",
+    "proxy_type": "http",
+    "proxy_host": "geo.floppydata.com",
+    "proxy_port": "10080",
+    "proxy_user": "MrDGHXpliHnYvYua",
+    "proxy_password": "xA1CtfAkmF1Xln9v",
+    "instagram_username": "",
+    "facebook_username": "DheyaStore",
+    "twitter_username": "",
+    "platforms": {
+      "facebook": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 25,
+        "check_requests": true,
+        "cooldown_hours": 0,
+        "dm_template": "أهلاً بك {name} في {page}",
+        "max_replies_per_hour": 40,
+        "page_name": "DheyaStore",
+        "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+        "private_dm_template": "مرحباً {name}، هذه رسالة خاصة من {page}",
+        "public_reply_template": "أهلاً بك {name} في {page}",
+        "skip_if_last_outgoing": true
+      },
+      "instagram": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 30,
+        "check_requests": true,
+        "cooldown_hours": 24,
+        "dm_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "max_replies_per_hour": 25,
+        "page_name": "",
+        "post_url": "https://www.instagram.com/p/C82OOsts-5c/",
+        "private_dm_template": "Hey! Reached out regarding your comment on the post. Hope you're having a great day! 😊",
+        "public_reply_template": "Appreciate your thoughts on this! Check your DMs 💬",
+        "skip_if_last_outgoing": true
+      },
+      "twitter": {
+        "action_type": "reply_and_dm",
+        "batch_limit": 6,
+        "check_interval_seconds": 15,
+        "check_requests": true,
+        "cooldown_hours": 0.2,
+        "dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "max_replies_per_hour": 100,
+        "page_name": "",
+        "post_url": "https://x.com/i/chat",
+        "private_dm_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "public_reply_template": "مرحباً بك {name}! شكراً لتواصلك معنا، نسعد بخدمتك دائماً. كيف يمكننا مساعدتك اليوم؟ 💬✨",
+        "skip_if_last_outgoing": true
+      }
+    }
+  },
+  "k1gpsln4": {
+    "name": "ملف AdsPower (k1gpsln4)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gxw3m1": {
+    "name": "ملف AdsPower (k1gxw3m1)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gxxf7x": {
+    "name": "ملف AdsPower (k1gxxf7x)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gxxu4i": {
+    "name": "ملف AdsPower (k1gxxu4i)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy4e8h": {
+    "name": "ملف AdsPower (k1gy4e8h)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xt6": {
+    "name": "ملف AdsPower (k1gy5xt6)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xt8": {
+    "name": "ملف AdsPower (k1gy5xt8)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xt9": {
+    "name": "ملف AdsPower (k1gy5xt9)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xta": {
+    "name": "ملف AdsPower (k1gy5xta)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xtb": {
+    "name": "ملف AdsPower (k1gy5xtb)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xtc": {
+    "name": "ملف AdsPower (k1gy5xtc)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy5xtf": {
+    "name": "ملف AdsPower (k1gy5xtf)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1gy6v0h": {
+    "name": "ملف AdsPower (k1gy6v0h)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1h2of8c": {
+    "name": "ملف AdsPower (k1h2of8c)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  },
+  "k1h3vjbe": {
+    "name": "ملف AdsPower (k1h3vjbe)",
+    "group_name": "الافتراضية",
+    "domain_name": ""
+  }
+}

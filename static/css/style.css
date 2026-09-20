@@ -1,0 +1,195 @@
+/* Premium Arabic Dashboard - Luxury UI 10/10 Styles */
+@import url('https://fonts.googleapis.com/css2?family=Cairo:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;700&display=swap');
+
+:root {
+    --bg-main: #080b12;
+    --card-bg: #0d1322;
+    --card-border: rgba(255, 255, 255, 0.08);
+    --emerald-glow: rgba(16, 185, 129, 0.25);
+    --indigo-glow: rgba(99, 102, 241, 0.25);
+}
+
+body {
+    background-color: var(--bg-main);
+    font-family: 'Cairo', system-ui, -apple-system, sans-serif;
+    letter-spacing: -0.01em;
+}
+
+code, pre, .font-mono {
+    font-family: 'JetBrains Mono', monospace, 'Cairo';
+}
+
+/* Custom Scrollbars */
+::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+}
+::-webkit-scrollbar-track {
+    background: #090d16;
+}
+::-webkit-scrollbar-thumb {
+    background: #1e293b;
+    border-radius: 6px;
+}
+::-webkit-scrollbar-thumb:hover {
+    background: #334155;
+}
+
+/* Tab Navigation Buttons */
+.tab-btn {
+    color: #94a3b8;
+    background: transparent;
+    border: 1px solid transparent;
+}
+.tab-btn:hover {
+    color: #ffffff;
+    background: rgba(30, 41, 59, 0.4);
+}
+.tab-btn.active-tab {
+    color: #ffffff;
+    background: #162035;
+    border-color: #273553;
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.3);
+}
+
+/* Platform Tabs Styling */
+.platform-tab {
+    background: #0f1626;
+    border-color: #1e293b;
+}
+.platform-tab:hover {
+    background: #141e33;
+    border-color: #334155;
+}
+.platform-tab.active-platform-tab {
+    background: #17233d;
+    border-color: #3b82f6;
+    color: #ffffff;
+    box-shadow: 0 0 20px rgba(59, 130, 246, 0.2);
+}
+#platform-btn-instagram.active-platform-tab {
+    border-color: #ec4899;
+    box-shadow: 0 0 20px rgba(236, 72, 153, 0.25);
+}
+#platform-btn-twitter.active-platform-tab {
+    border-color: #38bdf8;
+    box-shadow: 0 0 20px rgba(56, 189, 248, 0.25);
+}
+#platform-btn-tiktok.active-platform-tab {
+    border-color: #f43f5e;
+    box-shadow: 0 0 20px rgba(244, 63, 94, 0.25);
+}
+
+/* Buttons */
+.btn-primary {
+    background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+    color: #ffffff;
+    transition: all 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.btn-primary:hover:not(:disabled) {
+    background: linear-gradient(135deg, #059669 0%, #047857 100%);
+    transform: translateY(-1px);
+    box-shadow: 0 6px 20px rgba(16, 185, 129, 0.35);
+}
+.btn-primary:active {
+    transform: translateY(0);
+}
+
+.btn-secondary {
+    background: #162035;
+    color: #e2e8f0;
+    border: 1px solid #273553;
+    transition: all 0.2s ease;
+}
+.btn-secondary:hover {
+    background: #1e2c49;
+    color: #ffffff;
+    border-color: #3b4d75;
+}
+
+.btn-danger {
+    background: linear-gradient(135deg, #f43f5e 0%, #e11d48 100%);
+    color: #ffffff;
+    transition: all 0.2s ease;
+    border: 1px solid rgba(255, 255, 255, 0.12);
+}
+.btn-danger:hover:not(:disabled) {
+    background: linear-gradient(135deg, #e11d48 0%, #be123c 100%);
+    box-shadow: 0 6px 20px rgba(244, 63, 94, 0.35);
+}
+
+/* Floating Bulk Actions Bar Animation */
+#floating-bulk-bar {
+    animation: slideUpFloat 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+}
+@keyframes slideUpFloat {
+    from {
+        opacity: 0;
+        transform: translate(-50%, 20px);
+    }
+    to {
+        opacity: 1;
+        transform: translate(-50%, 0);
+    }
+}
+
+/* Terminal Log Lines */
+.log-line {
+    padding: 3.5px 8px;
+    border-radius: 6px;
+    transition: background-color 0.15s;
+    line-height: 1.55;
+}
+.log-line:hover {
+    background-color: rgba(255, 255, 255, 0.05);
+}
+.log-time {
+    color: #64748b;
+    font-size: 11px;
+}
+.log-badge-INFO {
+    color: #38bdf8;
+    background: rgba(56, 189, 248, 0.12);
+    padding: 1px 7px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.log-badge-SUCCESS {
+    color: #34d399;
+    background: rgba(52, 211, 153, 0.12);
+    padding: 1px 7px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.log-badge-WARNING {
+    color: #fbbf24;
+    background: rgba(251, 191, 36, 0.12);
+    padding: 1px 7px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+.log-badge-ERROR {
+    color: #f87171;
+    background: rgba(248, 113, 113, 0.15);
+    padding: 1px 7px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+/* Toast Notifications */
+.toast-item {
+    pointer-events: auto;
+    animation: toastSlideIn 0.3s cubic-bezier(0.16, 1, 0.3, 1);
+    transition: all 0.2s ease;
+}
+@keyframes toastSlideIn {
+    from {
+        transform: translateY(20px);
+        opacity: 0;
+    }
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}

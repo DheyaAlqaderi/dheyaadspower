@@ -1,0 +1,11 @@
+{
+  "adspower_api_url": "http://127.0.0.1:50325",
+  "api_key": "8871b8984dda201fff026c07fbb0f063009bdfb1760085d7",
+  "default_profile_id": "k1gy4e8h",
+  "post_url": "https://www.facebook.com/content/insights/?content_id=UzpfSTYxNTc2NjIwMzY2MTIxOjEyMjE5OTU3NTQ1MDg4NzM0NToxMjIxOTk1NzU0NTA4ODczNDU%3D&entry_point=CometFeedStoryProfilePlusViewInsightsButton",
+  "page_name": "DheyaStore",
+  "public_reply_template": "Hello {name}! Thanks for reaching out. Please check your inbox 📩",
+  "private_dm_template": "Hi {name}, thank you for your comment! How can we assist you with our store today?",
+  "check_interval_seconds": 45,
+  "port": 5000
+}
