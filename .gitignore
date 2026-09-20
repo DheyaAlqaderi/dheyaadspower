@@ -20,6 +20,7 @@ twitter_dm_history_*.json
 processed_comments.json
 replied_users.txt
 *.png
+!static/img/*.png
 
 # Backups & Archives
 *.tar.gz

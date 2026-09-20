@@ -11,7 +11,7 @@ export DISPLAY="${DISPLAY:-:0}"
 export XDG_RUNTIME_DIR="${XDG_RUNTIME_DIR:-/run/user/1000}"
 
 echo "==================================================="
-echo "  DheyaStore Bot Launcher  |  DISPLAY=$DISPLAY"
+echo "  DheyaAdspowercBot Launcher  |  DISPLAY=$DISPLAY"
 echo "==================================================="
 
 # Clean stale Electron singleton lock files
@@ -33,7 +33,7 @@ echo "Stopping any existing bot server..."
 pkill -f "python.*app\.py" 2>/dev/null || true
 sleep 1
 
-echo "Starting DheyaStore Bot server..."
+echo "Starting DheyaAdspowercBot server..."
 cd /home/ukal/py_workspace/ukal
 setsid /home/ukal/py_workspace/ukal/venv/bin/python3 /home/ukal/py_workspace/ukal/app.py > /tmp/dheyabot.log 2>&1 &
 SERVER_PID=$!

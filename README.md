@@ -1,4 +1,4 @@
-# 🚀 AdsPower Multi-Automation Hub & Management Suite
+# 🚀 DheyaAdspowercBot - AdsPower Automation Hub & Management Suite
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.10+" />
@@ -12,7 +12,7 @@
 
 ## 📖 نظرة عامة | Overview
 
-**AdsPower Multi-Automation Hub** هي منصة متكاملة واحترافية لإدارة وأتمتة متصفحات **AdsPower Global** وحسابات التواصل الاجتماعي المتعددة عبر واجهة مستخدم رسومية متطورة (Web Dashboard) ولوحة تحكم شاملة تدعم اللغة العربية.
+**DheyaAdspowercBot** هي منصة متكاملة واحترافية لإدارة وأتمتة متصفحات **AdsPower Global** وحسابات التواصل الاجتماعي المتعددة عبر واجهة مستخدم رسومية متطورة (Web Dashboard) ولوحة تحكم شاملة تدعم اللغة العربية.
 
 تجمع المنصة بين إدارة ملفات المتصفحات الافتراضية والنسخ الاحتياطي الدقيق للبيانات (Full Backup & Restore)، مزامنة وإدارة البروكسيات، وتشغيل أتمتة الردود والمراسلات التلقائية على المنصات الكبرى (**Facebook**, **Instagram**, **X/Twitter**, **TikTok**)، بالإضافة إلى عداد تنازلي حي لمتابعة موعد انتهاء خطة واشتراك حساب AdsPower.
 
